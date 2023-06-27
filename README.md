@@ -1,4 +1,4 @@
-# Amazon-Reviews-Capstone
+# Amazon Reviews Capstone
 
 ---
 
